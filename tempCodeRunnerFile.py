@@ -1,0 +1,2 @@
+
+pygame.mixer.music.stop()
